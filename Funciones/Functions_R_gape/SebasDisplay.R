@@ -11,3 +11,8 @@ gapeR(data1 = dataindividuals, data2 = datasensors, lightdata = 1,
       treatment = 1, blackwhite = TRUE, exp.days = TRUE, fixLYaxis = c(0, 24),
       box = FALSE, dates = FALSE, bty = "n", mtexty = FALSE, legend = "horizontal")
 
+####
+# Una vez abierto el programa, los botones quedan habilitados para su uso. El uso de cada botón
+# requerirá de seguir las instrucciones que aparezcan en la consola de R o pulsar el botón de 
+# refresh para actualizar la gráfica.
+###
